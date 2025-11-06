@@ -4,4 +4,4 @@ person1=vinay
 person2=reddy
 
 
-$person1 :: "Hello $person2"
+echo "$person1 :: Hello $person2"
